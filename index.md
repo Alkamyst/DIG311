@@ -4,10 +4,10 @@ layout: default
 
 # Hello, world!
 
-This is a markdown page!
+Hello!
 
-Isn't it neat?
+This is my markdown site for DIG311.
 
-Wouldn't ya think my collection's complete?
+I will be hosting my presentations here for the class.
 
 [Presentation 1](presentation1.md)

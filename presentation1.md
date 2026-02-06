@@ -4,6 +4,23 @@ layout: default
 
 # Presentation 1
 
+
+This is a presentation showcasing inspiration screenshots for a potential game world.
+
+
+Game world description:
+
+In the near future, Heaven and Earth become one.
+God gains full control of Earth.
+Some people worship Him out of fear.
+Some people rebel and retreat.
+One person aims to end it all.
+
+
+
+
+
+
 Main aesthetic inspiration
 
 <img src="img/kings-field.png" alt="A screenshot of the game King's Field III" width="800">
